@@ -102,6 +102,7 @@ Dựa vào viết hoa thường mình có 2 th cho key:
    The secret message is. When using a stream cipher, never use the key more than once
    The secret message is: When using a stream cipher, never use the key more than once. Đây là pt chuẩn nhất
 '''
+# Vì thế không bao giờ dùng nhiều lần khóa khi dùng one time pad
 
 
 
